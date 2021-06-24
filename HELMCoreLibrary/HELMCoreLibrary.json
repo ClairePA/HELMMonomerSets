@@ -7133,7 +7133,7 @@
         "createDate": null, 
         "id": 0, 
         "polymerType": "PEPTIDE", 
-        "symbol": "L-hArg(Et,Et)"
+        "symbol": "L-hArgEt2"
     }, 
     {
         "monomerType": "Backbone", 
